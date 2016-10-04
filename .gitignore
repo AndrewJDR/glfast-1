@@ -1,0 +1,5 @@
+*~
+*.o
+*.*.*
+*.txt.user
+*.DS_Store
